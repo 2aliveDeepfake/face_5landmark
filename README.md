@@ -10,3 +10,5 @@ test_file.py에 있는 parser에 기능이 설명되어 있음
 
 사용하고 싶은 기능은 defalt=True, 사용하고 싶지 않은 기능은 defalt=False로 해놓고 실행하면 됨
 
+원 코드 : 
+https://github.com/biubug6/Face-Detector-1MB-with-landmark#references
